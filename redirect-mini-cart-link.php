@@ -1,4 +1,4 @@
-*<?php
+<?php
 /**
  * Plugin Name:       Redirection Mini Panier
  * Description:       Personnalisez l’URL du lien “Poursuivre mes achats” du mini-panier WooCommerce depuis l’administration.
