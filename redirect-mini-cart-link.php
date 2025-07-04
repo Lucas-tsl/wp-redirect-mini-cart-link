@@ -10,6 +10,7 @@
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       redirect-mini-cart-link
+ * Copyright: © 2025 Lucas Troteseil
  */
 
 if (!defined('ABSPATH')) exit;
